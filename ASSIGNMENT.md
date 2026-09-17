@@ -10,7 +10,7 @@
 
 - **Live Working Prototype**: `http://localhost:5173` (Local Development) / `https://pawzzcare.vercel.app` (Vercel Deployment Ready)
 - **Backend API Endpoint**: `http://localhost:5000/api` (Local Express Server) / `https://pawzzcare-api.onrender.com/api` (Render Deployment Ready)
-- **GitHub Code Repository**: `https://github.com/pawzz/pawzzcare`
+- **GitHub Code Repository**: `https://github.com/kapilyadav008/pawzzcare-animal-care-mvp`
 - **Prototype Status**: Verified Full-Stack Working Prototype (React 18 + Vite + Express + TypeScript + Mongoose + Gemini 2.5 AI Engine)
 
 ---
