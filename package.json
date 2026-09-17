@@ -1,0 +1,24 @@
+{
+  "name": "pawzzcare",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PawzzCare — Animal Care Discovery & AI Health Organizer MVP",
+  "scripts": {
+    "setup": "npm install && cd server && npm install && cd ../client && npm install",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build:server": "cd server && npm run build",
+    "build:client": "cd client && npm run build",
+    "build": "npm run build:server && npm run build:client",
+    "test": "cd server && npm run test",
+    "seed": "cd server && npm run seed"
+  },
+  "keywords": [
+    "animal-care",
+    "ai",
+    "practo-for-animals",
+    "pet-health"
+  ],
+  "author": "",
+  "license": "MIT"
+}
